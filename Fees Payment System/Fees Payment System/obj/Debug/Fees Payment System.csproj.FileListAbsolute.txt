@@ -1,0 +1,18 @@
+C:\Users\BUCKit\Desktop\GUIDE\Fees Payment System\Fees Payment System\bin\Debug\Fees Payment System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\Fees Payment System\Fees Payment System\bin\Debug\Fees Payment System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Fees Payment System\Fees Payment System\bin\Debug\Fees Payment System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Fees Payment System\Fees Payment System\obj\Debug\Fees_Payment_System.Account.resources
+C:\Users\BUCKit\Desktop\GUIDE\Fees Payment System\Fees Payment System\obj\Debug\Fees_Payment_System.Fee.resources
+C:\Users\BUCKit\Desktop\GUIDE\Fees Payment System\Fees Payment System\obj\Debug\Fees_Payment_System.Menu.resources
+C:\Users\BUCKit\Desktop\GUIDE\Fees Payment System\Fees Payment System\obj\Debug\Fees_Payment_System.Parent.resources
+C:\Users\BUCKit\Desktop\GUIDE\Fees Payment System\Fees Payment System\obj\Debug\Fees_Payment_System.Payment.resources
+C:\Users\BUCKit\Desktop\GUIDE\Fees Payment System\Fees Payment System\obj\Debug\Fees_Payment_System.Properties.Resources.resources
+C:\Users\BUCKit\Desktop\GUIDE\Fees Payment System\Fees Payment System\obj\Debug\Fees_Payment_System.Student.resources
+C:\Users\BUCKit\Desktop\GUIDE\Fees Payment System\Fees Payment System\obj\Debug\Fees Payment System.csproj.GenerateResource.Cache
+C:\Users\BUCKit\Desktop\GUIDE\Fees Payment System\Fees Payment System\obj\Debug\Fees Payment System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Fees Payment System\Fees Payment System\obj\Debug\Fees Payment System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Fees Payment System\Fees Payment System\obj\Debug\Fees_Payment_System.Login.resources
+C:\Users\BUCKit\Desktop\GUIDE\Fees Payment System\Fees Payment System\obj\Debug\Fees Payment System.csprojResolveAssemblyReference.cache
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Fees Payment System\Fees Payment System\bin\Debug\Fees Payment System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Fees Payment System\Fees Payment System\obj\Debug\Fees Payment System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Fees Payment System\Fees Payment System\obj\Debug\Fees Payment System.pdb

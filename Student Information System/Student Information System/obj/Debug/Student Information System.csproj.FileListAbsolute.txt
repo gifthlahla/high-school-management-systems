@@ -1,0 +1,18 @@
+C:\Users\BUCKit\Desktop\GUIDE\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Student Information System\Student Information System\obj\Debug\Student Information System.csprojResolveAssemblyReference.cache
+C:\Users\BUCKit\Desktop\GUIDE\Student Information System\Student Information System\obj\Debug\Student_Information_System.Account.resources
+C:\Users\BUCKit\Desktop\GUIDE\Student Information System\Student Information System\obj\Debug\Student_Information_System.Class.resources
+C:\Users\BUCKit\Desktop\GUIDE\Student Information System\Student Information System\obj\Debug\Student_Information_System.Menu.resources
+C:\Users\BUCKit\Desktop\GUIDE\Student Information System\Student Information System\obj\Debug\Student_Information_System.Parent.resources
+C:\Users\BUCKit\Desktop\GUIDE\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+C:\Users\BUCKit\Desktop\GUIDE\Student Information System\Student Information System\obj\Debug\Student_Information_System.Student.resources
+C:\Users\BUCKit\Desktop\GUIDE\Student Information System\Student Information System\obj\Debug\Student_Information_System.Teacher.resources
+C:\Users\BUCKit\Desktop\GUIDE\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.Cache
+C:\Users\BUCKit\Desktop\GUIDE\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Student Information System\Student Information System\obj\Debug\Student_Information_System.Login.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Student Information System\Student Information System\obj\Debug\Student Information System.pdb

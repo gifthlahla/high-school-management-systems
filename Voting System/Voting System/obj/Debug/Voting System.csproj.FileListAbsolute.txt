@@ -1,0 +1,57 @@
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\bin\Debug\Voting System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\bin\Debug\Voting System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\bin\Debug\Voting System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting_System.Properties.Resources.resources
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting System.csproj.GenerateResource.Cache
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting_System.Menu.resources
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting_System.AdminLGN.resources
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting_System.Students.resources
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting_System.VoterLGN.resources
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting_System.Welcome.resources
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting_System.Candidates.resources
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting_System.Voters.resources
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting System.csprojResolveAssemblyReference.cache
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting_System.Settings.resources
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting_System.Results.resources
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting_System.FnlResults.resources
+C:\Users\BUCKit\Desktop\GUIDE\Voting System\Voting System\obj\Debug\Voting_System.Vote.resources
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\bin\Debug\Voting System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting System.exe
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\bin\Debug\Voting System.exe
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\bin\Debug\Voting System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting System.csprojResolveAssemblyReference.cache
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting_System.AdminLGN.resources
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting_System.Candidates.resources
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting_System.FnlResults.resources
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting_System.Results.resources
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting_System.Students.resources
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting_System.Settings.resources
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting_System.Vote.resources
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting_System.VoterLGN.resources
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting_System.Voters.resources
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting_System.Welcome.resources
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting_System.Menu.resources
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting_System.Properties.Resources.resources
+C:\Users\BUCKit\Desktop\GUIDE\!!!!\Voting System\Voting System\obj\Debug\Voting System.csproj.GenerateResource.Cache
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\bin\Debug\Voting System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\bin\Debug\Voting System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\bin\Debug\Voting System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting System.csprojResolveAssemblyReference.cache
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting_System.AdminLGN.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting_System.Candidates.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting_System.FnlResults.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting_System.Results.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting_System.Students.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting_System.Settings.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting_System.Vote.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting_System.VoterLGN.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting_System.Voters.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting_System.Welcome.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting_System.Menu.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting_System.Properties.Resources.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Voting System\Voting System\obj\Debug\Voting System.csproj.GenerateResource.Cache

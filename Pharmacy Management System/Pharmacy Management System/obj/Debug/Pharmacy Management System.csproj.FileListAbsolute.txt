@@ -1,0 +1,32 @@
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csprojResolveAssemblyReference.cache
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.Cache
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Customer.resources
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.DashBoard.resources
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Drug_Order.resources
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Login.resources
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Manufacturer.resources
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Medicines.resources
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Menu.resources
+C:\Users\BUCKit\Desktop\GUIDE\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Staff.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csprojResolveAssemblyReference.cache
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Customer.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.DashBoard.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Drug_Order.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Menu.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Login.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Manufacturer.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Medicines.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Staff.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.Cache

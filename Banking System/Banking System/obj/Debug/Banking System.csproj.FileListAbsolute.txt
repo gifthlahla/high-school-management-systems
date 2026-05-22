@@ -1,0 +1,15 @@
+C:\Users\BUCKit\Desktop\GUIDE\Banking System\Banking System\bin\Debug\Banking System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\Banking System\Banking System\obj\Debug\Banking System.csprojResolveAssemblyReference.cache
+C:\Users\BUCKit\Desktop\GUIDE\Banking System\Banking System\obj\Debug\Banking_System.Account.resources
+C:\Users\BUCKit\Desktop\GUIDE\Banking System\Banking System\obj\Debug\Banking_System.Bank.resources
+C:\Users\BUCKit\Desktop\GUIDE\Banking System\Banking System\obj\Debug\Banking_System.Authentication.resources
+C:\Users\BUCKit\Desktop\GUIDE\Banking System\Banking System\obj\Debug\Banking_System.Menu.resources
+C:\Users\BUCKit\Desktop\GUIDE\Banking System\Banking System\obj\Debug\Banking_System.Properties.Resources.resources
+C:\Users\BUCKit\Desktop\GUIDE\Banking System\Banking System\obj\Debug\Banking_System.Transaction.resources
+C:\Users\BUCKit\Desktop\GUIDE\Banking System\Banking System\obj\Debug\Banking_System.Customers.resources
+C:\Users\BUCKit\Desktop\GUIDE\Banking System\Banking System\obj\Debug\Banking System.csproj.GenerateResource.Cache
+C:\Users\BUCKit\Desktop\GUIDE\Banking System\Banking System\bin\Debug\Banking System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Banking System\Banking System\bin\Debug\Banking System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Banking System\Banking System\obj\Debug\Banking System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Banking System\Banking System\obj\Debug\Banking System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Banking System\Banking System\obj\Debug\Banking_System.Login.resources

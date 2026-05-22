@@ -1,0 +1,17 @@
+C:\Users\BUCKit\Desktop\GUIDE 2\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Menu.resources
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Accounts.resources
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.DashBoard.resources
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Diagnostics.resources
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Medicines.resources
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Patients.resources
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Staff.resources
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+C:\Users\BUCKit\Desktop\GUIDE\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Login.resources

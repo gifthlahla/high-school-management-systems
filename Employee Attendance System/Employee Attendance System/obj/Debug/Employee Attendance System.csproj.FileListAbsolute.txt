@@ -1,0 +1,17 @@
+C:\Users\BUCKit\Desktop\GUIDE\Employee Attendance System\Employee Attendance System\bin\Debug\Employee Attendance System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\Employee Attendance System\Employee Attendance System\bin\Debug\Employee Attendance System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Employee Attendance System\Employee Attendance System\bin\Debug\Employee Attendance System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Employee Attendance System\Employee Attendance System\obj\Debug\Employee Attendance System.csprojResolveAssemblyReference.cache
+C:\Users\BUCKit\Desktop\GUIDE\Employee Attendance System\Employee Attendance System\obj\Debug\Employee_Attendance_System.Account.resources
+C:\Users\BUCKit\Desktop\GUIDE\Employee Attendance System\Employee Attendance System\obj\Debug\Employee_Attendance_System.Attendance.resources
+C:\Users\BUCKit\Desktop\GUIDE\Employee Attendance System\Employee Attendance System\obj\Debug\Employee_Attendance_System.Employees.resources
+C:\Users\BUCKit\Desktop\GUIDE\Employee Attendance System\Employee Attendance System\obj\Debug\Employee_Attendance_System.Leave.resources
+C:\Users\BUCKit\Desktop\GUIDE\Employee Attendance System\Employee Attendance System\obj\Debug\Employee_Attendance_System.Menu.resources
+C:\Users\BUCKit\Desktop\GUIDE\Employee Attendance System\Employee Attendance System\obj\Debug\Employee_Attendance_System.Properties.Resources.resources
+C:\Users\BUCKit\Desktop\GUIDE\Employee Attendance System\Employee Attendance System\obj\Debug\Employee Attendance System.csproj.GenerateResource.Cache
+C:\Users\BUCKit\Desktop\GUIDE\Employee Attendance System\Employee Attendance System\obj\Debug\Employee Attendance System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Employee Attendance System\Employee Attendance System\obj\Debug\Employee Attendance System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Employee Attendance System\Employee Attendance System\obj\Debug\Employee_Attendance_System.Login.resources
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Employee Attendance System\Employee Attendance System\bin\Debug\Employee Attendance System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Employee Attendance System\Employee Attendance System\obj\Debug\Employee Attendance System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Projects\Employee Attendance System\Employee Attendance System\obj\Debug\Employee Attendance System.pdb

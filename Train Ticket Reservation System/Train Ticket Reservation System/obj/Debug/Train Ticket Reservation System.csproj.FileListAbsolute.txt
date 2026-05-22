@@ -1,0 +1,15 @@
+C:\Users\BUCKit\Desktop\GUIDE\Train Ticket Reservation System\Train Ticket Reservation System\bin\Debug\Train Ticket Reservation System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\Train Ticket Reservation System\Train Ticket Reservation System\bin\Debug\Train Ticket Reservation System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Train Ticket Reservation System\Train Ticket Reservation System\bin\Debug\Train Ticket Reservation System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Train Ticket Reservation System\Train Ticket Reservation System\obj\Debug\Train_Ticket_Reservation_System.Accounts.resources
+C:\Users\BUCKit\Desktop\GUIDE\Train Ticket Reservation System\Train Ticket Reservation System\obj\Debug\Train_Ticket_Reservation_System.Cancellation.resources
+C:\Users\BUCKit\Desktop\GUIDE\Train Ticket Reservation System\Train Ticket Reservation System\obj\Debug\Train_Ticket_Reservation_System.Menu.resources
+C:\Users\BUCKit\Desktop\GUIDE\Train Ticket Reservation System\Train Ticket Reservation System\obj\Debug\Train_Ticket_Reservation_System.Passangers.resources
+C:\Users\BUCKit\Desktop\GUIDE\Train Ticket Reservation System\Train Ticket Reservation System\obj\Debug\Train_Ticket_Reservation_System.Properties.Resources.resources
+C:\Users\BUCKit\Desktop\GUIDE\Train Ticket Reservation System\Train Ticket Reservation System\obj\Debug\Train_Ticket_Reservation_System.Ticket.resources
+C:\Users\BUCKit\Desktop\GUIDE\Train Ticket Reservation System\Train Ticket Reservation System\obj\Debug\Train_Ticket_Reservation_System.Train.resources
+C:\Users\BUCKit\Desktop\GUIDE\Train Ticket Reservation System\Train Ticket Reservation System\obj\Debug\Train Ticket Reservation System.csproj.GenerateResource.Cache
+C:\Users\BUCKit\Desktop\GUIDE\Train Ticket Reservation System\Train Ticket Reservation System\obj\Debug\Train Ticket Reservation System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Train Ticket Reservation System\Train Ticket Reservation System\obj\Debug\Train Ticket Reservation System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Train Ticket Reservation System\Train Ticket Reservation System\obj\Debug\Train Ticket Reservation System.csprojResolveAssemblyReference.cache
+C:\Users\BUCKit\Desktop\GUIDE\Train Ticket Reservation System\Train Ticket Reservation System\obj\Debug\Train_Ticket_Reservation_System.Login.resources

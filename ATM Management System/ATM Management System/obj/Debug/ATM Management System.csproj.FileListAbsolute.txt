@@ -1,0 +1,17 @@
+C:\Users\BUCKit\Desktop\GUIDE 2\ATM Management System\ATM Management System\bin\Debug\ATM Management System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\bin\Debug\ATM Management System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\bin\Debug\ATM Management System.exe
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\bin\Debug\ATM Management System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csprojResolveAssemblyReference.cache
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Authentication.resources
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.ATM.resources
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Card.resources
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Transaction.resources
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.User.resources
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Menu.resources
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Properties.Resources.resources
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Account.resources
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.GenerateResource.Cache
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\obj\Debug\ATM Management System.exe
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\obj\Debug\ATM Management System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Login.resources

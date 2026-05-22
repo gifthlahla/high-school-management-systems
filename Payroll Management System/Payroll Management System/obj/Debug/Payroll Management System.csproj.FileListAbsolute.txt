@@ -1,0 +1,16 @@
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe.config
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\bin\Debug\Payroll Management System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Menu.resources
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Properties.Resources.resources
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csproj.GenerateResource.Cache
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.exe
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.pdb
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Advance.resources
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Attendance.resources
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Bonus.resources
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.DashBoard.resources
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Employees.resources
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Issue_Salary.resources
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\obj\Debug\Payroll Management System.csprojResolveAssemblyReference.cache
+C:\Users\BUCKit\Desktop\GUIDE\Payroll Management System\Payroll Management System\obj\Debug\Payroll_Management_System.Login.resources
