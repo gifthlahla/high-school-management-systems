@@ -1,66 +1,61 @@
 # 🖥️ High School Management Systems (2022–2023)
 
-A curated collection of **10 C# Windows Forms applications**, drawn from a total of **42 management systems** I built independently before starting university.
-
-Each system uses **C# (Windows Forms)** with a **Microsoft Access database** connected via **OLEDB**.
-
-These projects represent the foundation of my software development journey — solving real‑world problems across banking, healthcare, education, HR, and transport.
+A curated collection of 10 representative C# Windows Forms applications (from a larger set of 42 projects). Each project is a desktop management system backed by a Microsoft Access database and demonstrates CRUD workflows, simple authentication, and ADO.NET (OLEDB) data access.
 
 ---
 
-## 📁 The Curated 10
+## 📁 Curated Projects (with short descriptions)
 
-| # | System | Domain |
-|---|--------|--------|
-| 1 | Banking Management | Fintech / Finance |
-| 2 | ATM Management | Fintech |
-| 3 | Hospital Management | Healthcare |
-| 4 | Pharmacy Management | Healthcare / Retail |
-| 5 | Student Information Management | Education |
-| 6 | Fees Payment Management | Education / Finance |
-| 7 | Payroll Management | HR / Finance |
-| 8 | Employee Attendance Management | HR |
-| 9 | Voting Management | Civic Tech |
-| 10 | Train Ticket Management | Transport / Logistics |
+1. [Banking System](Banking System/README.MD) — Desktop banking demo: customers, accounts, transactions, and a dashboard.
+2. [ATM Management System](ATM Management System/README.MD) — Manage ATM terminals, cards, accounts and transactions.
+3. [Hospital Management System](Hospital Management System/README.MD) — Patients, staff, diagnostics, medicines and basic accounts.
+4. [Pharmacy Management System](Pharmacy Management System/README.MD) — Inventory, billing/orders, suppliers and medicine records.
+5. [Student Information System](Student Information System/README.MD) — Student, teacher, class and parent records with account management.
+6. [Fees Payment System](Fees Payment System/README.MD) — School fees types, payments ledger, and balance tracking.
+7. [Payroll Management System](Payroll Management System/README.MD) — Employee records, attendance, salary issuance and payroll workflows.
+8. [Employee Attendance System](Employee Attendance System/README.MD) — Employee CRUD, daily attendance, and leave management.
+9. [Voting System (PollPulse)](Voting System/README.MD) — Voter/candidate management, casting votes, and result printing.
+10. [Train Ticket Reservation System](Train Ticket Reservation System/README.MD) — Train schedules, passengers, ticket booking, and cancellations.
 
-Each folder contains:
+Each project folder contains:
 - Full source code
-- A dedicated `README.md` with a description, key features, and screenshots
-
-*(The remaining 32 systems are not publicly published; these 10 serve as a representative sample.)*
+- A project-specific `README.MD` with features, run steps and screenshots
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **Language:** C# (.NET Framework)
-- **UI:** Windows Forms
-- **Database:** Microsoft Access (.mdb / .accdb)
-- **Data Access:** ADO.NET (OLEDB)
+- Language: C# (.NET Framework)
+- UI: Windows Forms
+- Database: Microsoft Access (.mdb / .accdb)
+- Data Access: ADO.NET (OLEDB)
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots (examples included in each project folder)
 
-Screenshots are included inside each system's folder (`screenshot.png`).  
+The projects include screenshots inside their folders. Example filenames found across the projects:
+
+- Banking System: `bank_login.png`, `bank_dashbrd.png`, `bank_trans.png`
+- ATM Management System: `atm_login.png`, `atm_trans.png`, `atm_card.png`
+- Hospital Management System: `hospital_login.png`, `hospital_dshbrd.png`, `hospital_staff.png`
+- Pharmacy Management System: `dashboard.png`, `billing.png`
+- Student Information System: `login.png`, `student.png`, `teacher.png`
+- Fees Payment System: `login.png`, `feespay.png`
+- Payroll Management System: `payroll_login.png`, `payroll_dshbrd.png`, `payroll_employees.png`, `payroll_salary.png`, `payroll_attendance.png`
+- Employee Attendance System: `attend_login.png`, `attend_attend.png`, `attend_leave.png`
+- Voting System: `vote_1st_page.png`, `vote_settings.png`
+- Train Ticket Reservation System: `train_login.png`, `train_login_success.png`, `train_mngtrains.png`, `train_pssngr.png`, `train_ticket.png`
+
 A combined preview may be added later.
 
 ---
 
-## 🗺️ How to Navigate
+## 🗺️ How to navigate
 
-Click any folder above, or use these links:
+Open any project folder above and inspect that project's `README.MD` for detailed setup and run instructions. Example:
 
-- [Banking Management](./Banking-Management/)
-- [ATM Management](./ATM-Management/)
-- [Hospital Management](./Hospital-Management/)
-- [Pharmacy Management](./Pharmacy-Management/)
-- [Student Information Management](./Student-Information-Management/)
-- [Fees Payment Management](./Fees-Payment-Management/)
-- [Payroll Management](./Payroll-Management/)
-- [Employee Attendance Management](./Employee-Attendance-Management/)
-- [Voting Management](./Voting-Management/)
-- [Train Ticket Management](./Train-Ticket-Management/)
+- Open `Banking System/README.MD` for the banking project details.
 
 ---
 
@@ -68,15 +63,14 @@ Click any folder above, or use these links:
 
 After these systems, I moved on to modern stacks:
 
-- **Mobile:** Flutter, Dart, Firebase, Supabase
-- **Web:** React, TailwindCSS, HTML/CSS/JS, Vite
-- **Backend:** Python, Java
+- Mobile: Flutter, Dart, Firebase, Supabase
+- Web: React, TailwindCSS, HTML/CSS/JS, Vite
+- Backend: Python, Java
 
-See my current portfolio at [gifthlahla.github.io](https://gifthlahla.github.io).
+See my current portfolio at https://gifthlahla.github.io
 
 ---
 
 ## 📄 License
 
-This repository is for educational and portfolio purposes.  
-Not intended for commercial redistribution.
+This repository is for educational and portfolio purposes. Not intended for commercial redistribution.

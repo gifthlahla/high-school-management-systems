@@ -1,0 +1,16 @@
+## Ignore build outputs
+**/bin/
+**/obj/
+
+## Ignore Microsoft Access DB files (local runtime DBs)
+**/*.accdb
+**/*.laccdb
+
+## Visual Studio / user files
+*.user
+*.suo
+*.vs/
+
+## OS files
+Thumbs.db
+.DS_Store
