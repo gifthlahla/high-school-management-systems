@@ -53,9 +53,28 @@ A combined preview may be added later.
 
 ## 🗺️ How to navigate
 
+<<<<<<< Updated upstream
 Open any project folder above and inspect that project's `README.MD` for detailed setup and run instructions. Example:
 
 - Open `Banking System/README.MD` for the banking project details.
+=======
+Click any project folder below (links point directly to each project's `README.md`):
+
+- [Banking System](Banking%20System/README.MD)
+- [ATM Management System](ATM%20Management%20System/README.MD)
+- [Hospital Management System](Hospital%20Management%20System/README.MD)
+- [Pharmacy Management System](Pharmacy%20Management%20System/README.MD)
+- [Student Information System](Student%20Information%20System/README.MD)
+- [Fees Payment System](Fees%20Payment%20System/README.MD)
+- [Payroll Management System](Payroll%20Management%20System/README.MD)
+- [Employee Attendance System](Employee%20Attendance%20System/README.MD)
+- [Voting System](Voting%20System/README.MD)
+- [Train Ticket Reservation System](Train%20Ticket%20Reservation%20System/README.MD)
+
+If GitHub still shows the original text, refresh the page or open this branch's README directly:
+
+https://github.com/gifthlahla/high-school-management-systems/blob/main/README.md
+>>>>>>> Stashed changes
 
 ---
 
